@@ -15,7 +15,7 @@ const users = [
 const siteConfig = {
   title: 'Exploit Guide', // Title for your website.
   tagline: 'Security Blog',
-  url: 'https://exploitguide.ga', // Your website URL
+  url: 'https://securityheaven.ml', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -30,10 +30,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {doc: 'intro', label: 'Web Application Security'},
   ],
 
   // If you have users set above, you add it here:
@@ -46,7 +43,7 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#081e31',
+    primaryColor: 'black',
     secondaryColor: '#051522',
   },
 
@@ -81,8 +78,6 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/undraw_online.svg',
-  twitterImage: 'img/undraw_tweetstorm.svg',
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
@@ -92,7 +87,7 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  //   repoUrl: 'https://github.com/facebook/test-site',
+    repoUrl: 'https://github.com/siddhanthdwivedi/exploitGuide/tree/master',
 };
 
 module.exports = siteConfig;
