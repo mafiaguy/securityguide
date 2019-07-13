@@ -1,5 +1,6 @@
 {
   "LandingPage": {
-    "Web Application Security": ["intro","SqlBasics"]
+    "Web Application Security": ["intro","Owasptop10"]
+, "SQL Injection":["SqlBasics","BypassAuthenticationSQLINJECTION","UNIONBASEDSQLINJECTION","Cheatsheetsforauthenication","Securetheseattack"] 
   }
 }
