@@ -4,4 +4,4 @@ title: Exploit
 sidebar_label: Exploit
 ---
 
-skldfjslj
+This blog will guide you to understand the concepts used in cyber security  
