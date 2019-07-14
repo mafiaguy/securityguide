@@ -3,11 +3,6 @@ id: Securetheseattack
 title: How to Secure From These Attack
 sidebar_label: How to Secure From These Attack
 ---
-<!-- ---
-id: Securetheseattack
-title: How to Secure These Attack
-sidebar_label: How to Secure These Attack 
----		 -->
 
 How to Secure These Attack?
 -------------------------
