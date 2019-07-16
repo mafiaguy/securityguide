@@ -31,6 +31,8 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'intro', label: 'Web Application Security'},
+    {doc: 'networksecurity/socialengg', label: 'Network Security'},
+
   ],
 
   // If you have users set above, you add it here:

@@ -1,7 +1,7 @@
 ---
 id: ErrorbasedSQLinjection
 title: Introduction to Error Based Injection
-sidebar_label: Introduction Error Based Injection
+sidebar_label: Error Based Injection
 ---
 
 Error Based Injection

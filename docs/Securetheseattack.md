@@ -1,7 +1,7 @@
 ---
 id: Securetheseattack
 title: How to Secure From These Attack
-sidebar_label: How to Secure From These Attack
+sidebar_label: Secure Yourself
 ---
 
 How to Secure These Attack?
