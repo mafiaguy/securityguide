@@ -6,6 +6,9 @@
   },
   "NewPage": {
     "Network Security":["networksecurity/socialengg"]
+  },
+  "Newpage": {
+    "Cheat Sheets":["Cheatsheet/authentication","Cheatsheet/xss"]
   }
 
 }

@@ -1,5 +1,5 @@
 ---
-id: Cheatsheetsforauthenication
+id: authentication
 title: CHEAT SHEET for Authentication Bypass
 sidebar_label: CHEAT SHEET for Authentication Bypass
 ---

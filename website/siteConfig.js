@@ -32,6 +32,7 @@ const siteConfig = {
   headerLinks: [
     {doc: 'intro', label: 'Web Application Security'},
     {doc: 'networksecurity/socialengg', label: 'Network Security'},
+    {doc: 'Cheatsheet/authentication', label: 'Cheat Sheets'}
 
   ],
 
