@@ -10,6 +10,9 @@
   },
   "Newpage": {
     "Cheat Sheets":["Cheatsheet/authentication","Cheatsheet/xss"]
+  },
+  "Aboutme": {
+    "About Me":["aboutme"]
   }
 
 }
