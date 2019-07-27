@@ -13,6 +13,9 @@
   },
   "Aboutme": {
     "About Me":["aboutme"]
+  },
+  "ReadingMaterial": {
+    "Reading Material":["read"]
   }
 
 }

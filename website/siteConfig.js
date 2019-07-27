@@ -21,7 +21,9 @@ const siteConfig = {
     {doc: 'intro', label: 'Web Application Security'},
     {doc: 'networksecurity/socialengg', label: 'Network Security'},
     {doc: 'Cheatsheet/authentication', label: 'Cheat Sheets'},
+    {doc: 'read', label: 'Reading Material'},
     {doc: 'aboutme', label: 'About Me'}
+    
 
 
   ],
