@@ -9,9 +9,9 @@ I started using the computer at a tender age of 7 .and from then I have evolved 
 Networking skills, Wireshark, Nmap, Metasploit, Ness,Monitoring,Ettercap, Vega , Maltego , Burp suite ,Beef &Guy whom you always want to get knowledge from 
 
 Links
-https://www.linkedin.com/in/siddhanthDwivedi/
+Profile :- https://www.linkedin.com/in/siddhanthDwivedi/
 
-https://twitter.com/blogger_sid
+Twitter :- https://twitter.com/blogger_sid
 
-https://github.com/siddhanthDwivedi/
+Projects :- https://github.com/siddhanthDwivedi/
 
