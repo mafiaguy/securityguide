@@ -12,7 +12,7 @@ Links
 
 Profile :- https://www.linkedin.com/in/siddhanthDwivedi/
 
-Twitter :- https://twitter.com/blogger_sid
+Twitter :- https://twitter.com/sidhanthDwivedi
 
 Projects :- https://github.com/siddhanthDwivedi/
 
