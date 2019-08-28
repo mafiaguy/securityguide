@@ -2,7 +2,7 @@
   "LandingPage": {
     "Web Application Security": ["intro","Owasptop10"]
 , "SQL Injection":["SqlBasics","BypassAuthenticationSQLINJECTION","Cheatsheetsforauthenication","UNIONBASEDSQLINJECTION","ErrorbasedSQLinjection","blindSQL","SQLMAP","Securetheseattack","js","burp"]
-, "Cross Site Scripting":["xss"]
+, "Cross Site Scripting":["xss"],"Cross Site Request Forgery":["csrf"]
 
   },
   "NewPage": {
