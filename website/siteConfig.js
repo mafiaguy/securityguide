@@ -22,7 +22,7 @@ const siteConfig = {
     {doc: 'networksecurity/socialengg', label: 'Network Security'},
     {doc: 'Cheatsheet/authentication', label: 'Cheat Sheets'},
     {doc: 'read', label: 'Reading Material'},
-    {doc: 'aboutme', label: 'About Me'}
+    {doc: 'aboutme', label: 'About Me'}     
     
 
 
