@@ -15,9 +15,9 @@ I believe that a person's life could influence the lives of an incredible number
 
 Links
 
-Profile :- https://www.linkedin.com/in/siddhanthDwivedi/
+Profile :- https://www.linkedin.com/in/mafiaguy/
 
-Twitter :- https://twitter.com/sidhanthDwivedi
+Twitter :- https://twitter.com/mafiaaguy
 
-Projects :- https://github.com/siddhanthDwivedi/
+Projects :- https://github.com/mafiaguy
 
